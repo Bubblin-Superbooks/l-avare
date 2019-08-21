@@ -1,0 +1,4535 @@
+[
+  {
+    "tag": "h4",
+    "innerHtml": "The Miser."
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "(L'avare.)"
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>MOLIÈRE</p>"
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "p",
+    "innerHtml": "This play was acted for the first time on September 9, 1668. In it, Molière has borrowed from Plautus, and has imitated several other authors, but he far surpasses them in the treatment of his subject. The picture of the miser, in whom love of money takes the place of all natural affections, who not only withdraws from family intercourse, but considers his children as natural enemies, is finely drawn, and renders Molière's Miser altogether more dramatic and moral than those of his predecessors."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Molière acted the part of Harpagon."
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Persons Represented."
+  },
+  {
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Harpagon, father to Cléante, in love with Marianne.",
+        "Cléante, Harpagon's son, lover to Marianne.",
+        "Valère, son to Anselme, and lover to Élise.",
+        "Anselme, father to Valère and Marianne.",
+        "Master Simon, broker.",
+        "Master Jacques, cook and coachman to Harpagon.",
+        "La Flèche, valet to Cléante.",
+        "Brindavoine, and La Merluche, lackeys to Harpagon.",
+        "A Magistrate and his Clerk.",
+        "Élise, daughter to Harpagon.",
+        "Marianne, daughter to Anselme.",
+        "Frosine, an intriguing woman.",
+        "Mistress Claude, servant to Harpagon."
+      ]
+    }
+  },
+  {
+    "tag": "p",
+    "innerHtml": "<em>The scene is at</em> Paris, <em>in</em> Harpagon's <em>house</em>."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h2",
+    "innerHtml": "The Miser."
+  },
+  {
+    "tag": "h4",
+    "innerHtml": "Act I."
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene I."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——VALÈRE, ÉLISE.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. What, dear Élise! you grow sad after having given me such dear tokens of your love; and I see you sigh in the midst of my joy! Can you regret having made me happy? and do you repent of the engagement which my love has forced from you?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Eli. No, Valère, I do not regret what I do for you; I feel carried on by too delightful a power, and I do not even wish that things should be otherwise than they are. Yet, to tell you the truth, I am very anxious about the consequences; and I greatly fear that I love you more than I should."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. What can you possibly fear from the affection you have shown me?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Eli. Everything; the anger of my father, the reproaches of my family, the censure of the world, and, above all, Valère, a change in your heart! I fear that cruel coldness with which your sex so often repays the too warm proofs of an innocent love."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. Alas! do not wrong me thus; do not judge of me by others. Think me capable of everything, Élise, except of falling short of what I owe to you. I love you too much for that; and my love will be as lasting as my life!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Eli. Ah! Valère, all men say the same thing; all men are alike in their words; their actions only show the difference that exists between them."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. Then why not wait for actions, if by them alone you can judge of the truthfulness of my heart? Do not suffer your anxious fears to mislead you, and to wrong me. Do not let an unjust suspicion destroy the happiness which is to me dearer than life; but give me time to show you by a thousand proofs the sincerity of my affection."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Eli. Alas! how easily do we allow ourselves to be persuaded by those we love. I believe you, Valère; I feel sure that your heart is utterly incapable of deceiving me, that your love is sincere, and that you will ever remain faithful to me. I will no longer doubt that happiness is near. If I grieve, it will only be over the difficulties of our position, and the possible censures of the world."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. But why even this fear?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Eli. Oh, Valère! if everybody knew you as I do, I should not have much to fear. I find in you enough to justify all I do for you; my heart knows all your merit, and feels, moreover, bound to you by deep gratitude. How can I forget that horrible moment when we met for the first time? Your generous courage in risking your own life to save mine from the fury of the waves; your tender care afterwards; your constant attentions and your ardent love, which neither time nor difficulties can lessen! For me you neglect your parents and your country; you give up your own position in life to be a servant of my father! How can I resist the influence that all this has over me? Is it not enough to justify in my eyes my engagement to you? Yet, who knows if it will be enough to justify it in the eyes of others? and how can I feel sure that my motives will be understood?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. You try in vain to find merit in what I have done; it is by my love alone that I trust to deserve you. As for the scruples you feel, your father himself justifies you but too much before the world; and his avarice and the distant way in which he lives with his children might authorise stranger things still. Forgive me, my dear Élise, for speaking thus of your father before you; but you know that, unfortunately, on this subject no good can be said of him. However, if I can find my parents, as I fully hope I shall, they will soon be favourable to us. I am expecting news of them with great impatience; but if none comes I will go in search of them myself."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Eli. Oh no! Valère, do not leave me, I entreat you. Try rather to ingratiate yourself in my father's favour."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. You know how much I wish it, and you can see how I set about it. You know the skilful manoeuvres I have had to use in order to introduce myself into his service; under what a mask of sympathy and conformity of tastes I disguise my own feelings to please him; and what a part I play to acquire his affection. I succeed wonderfully well, and I feel that to obtain favour with men, there are no better means than to pretend to be of their way of thinking, to fall in with their maxims, to praise their defects, and to applaud all their doings. One need not fear to overdo it, for however gross the flattery, the most cunning are easily duped; there is nothing so impertinent or ridiculous which they will not believe, provided it be well seasoned with praise. Honesty suffers, I acknowledge; but when we have need of men, we may be allowed without blame to adapt ourselves to their mode of thought; and if we have no other hope of success but through such stratagem, it is not after all the fault of those who flatter, but the fault of those who wish to be flattered."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Eli. Why do you not try also to gain my brother's goodwill, in case the servant should betray our secret?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. I am afraid I cannot humour them both. The temper of the father is so different from that of the son that it would be difficult to be the confidant of both at the same time. Rather try your brother yourself; make use of the love that exists between you to enlist him in our cause. I leave you, for I see him coming. Speak to him, sound him, and see how far we can trust him."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Eli. I greatly fear I shall never have the courage to speak to him of my secret."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Ii."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——CLÉANTE, ÉLISE,</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. I am very glad to find you alone, sister. I longed to speak to you and to tell you a secret."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Eli. I am quite ready to hear you, brother. What is it you have to tell me?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Many things, sister, summed up in one word—love."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Eli. You love?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Yes, I love. But, before I say more, let me tell you that I know I depend on my father, and that the name of son subjects me to his will; that it would be wrong to engage ourselves without the consent of the authors of our being; that heaven has made them the masters of our affections, and that it is our duty not to dispose of ourselves but in accordance to their wish; that their judgment is not biassed by their being in love themselves; that they are, therefore, much more likely not to be deceived by appearances, and to judge better what is good for us; that we ought to trust their experience rather than the passion which blinds us; and that the rashness of youth often carries us to the very brink of dangerous abysses. I know all this, my sister, and I tell it you to spare you the trouble of saying it to me, for my love will not let me listen to anything, and I pray you to spare me your remonstrances."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Eli. Have you engaged yourself, brother, to her you love?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. No, but I have determined to do so; and I beseech you once more not to bring forward any reason to dissuade me from it."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Eli. Am I such a very strange person, brother?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. No, dear sister; but you do not love. You know not the sweet power that love has upon our hearts; and I dread your wisdom."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Eli. Alas! my brother, let us not speak of my wisdom. There are very few people in this world who do not lack wisdom, were it only once in their lifetime; and if I opened my heart to you, perhaps you would think me less wise than you are yourself."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Ah! would to heaven that your heart, like mine …"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Eli. Let us speak of you first, and tell me whom it is you love."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. A young girl who has lately come to live in our neighbourhood, and who seems made to inspire love in all those who behold her. Nature, my dear sister, has made nothing more lovely; and I felt another man the moment I saw her. Her name is Marianne, and she lives with a good, kind mother, who is almost always ill, and for whom the dear girl shows the greatest affection. She waits upon her, pities and comforts her with a tenderness that would touch you to the very soul. Whatever she undertakes is done in the most charming way; and in all her actions shine a wonderful grace, a most winning gentleness, an adorable modesty, a … ah! my sister, how I wish you had but seen her."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Eli. I see many things in what you tell me, dear brother; and it is sufficient for me to know that you love her for me to understand what she is."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. I have discovered, without their knowing it, that they are not in very good circumstances, and that, although they live with the greatest care, they have barely enough to cover their expenses. Can you imagine, my sister, what happiness it must be to improve the condition of those we love; skilfully to bring about some relief to the modest wants of a virtuous family? And think what grief it is for me to find myself deprived of this great joy through the avarice of a father, and for it to be impossible for me to give any proof of my love to her who is all in all to me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Eli. Yes, I understand, dear brother, what sorrow this must be to you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. It is greater, my sister, than you can believe. For is there anything more cruel than this mean economy to which we are subjected? this strange penury in which we are made to pine? What good will it do us to have a fortune if it only comes to us when we are not able to enjoy it; if now to provide for my daily maintenance I get into debt on every side; if both you and I are reduced daily to beg the help of tradespeople in order to have decent clothes to wear? In short, I wanted to speak to you that you might help me to sound my father concerning my present feelings; and if I find him opposed to them, I am determined to go and live elsewhere with this most charming girl, and to make the best of what Providence offers us. I am trying everywhere to raise money for this purpose; and if your circumstances, dear sister, are like mine, and our father opposes us, let us both leave him, and free ourselves from the tyranny in which his hateful avarice has for so long held us."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Eli. It is but too true that every day he gives us more and more reason to regret the death of our mother, and that …"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. I hear his voice. Let us go a little farther and finish our talk. We will afterwards join our forces to make a common attack on his hard and unkind heart."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Iii."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——HARPAGON, LA FLÈCHE.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Get out of here, this moment; and let me have no more of your prating. Now then, be gone out of my house, you sworn pickpocket, you veritable gallows' bird."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Fl. (<em>aside</em>). I never saw anything more wicked than this cursed old man; and I truly believe, if I may be allowed to say so, that he is possessed with a devil."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. What are you muttering there between your teeth?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Fl. Why do you send me away?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. You dare to ask me my reasons, you scoundrel? Out with you, this moment, before I give you a good thrashing."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Fl. What have I done to you?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Done this, that I wish you to be off."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Fl. My master, your son, gave me orders to wait for him."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Go and wait for him in the street, then; out with you; don't stay in my house, straight and stiff as a sentry, to observe what is going on, and to make your profit of everything. I won't always have before me a spy on all my affairs; a treacherous scamp, whose cursed eyes watch all my actions, covet all I possess, and ferret about in every corner to see if there is anything to steal."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Fl. How the deuce could one steal anything from you? Are you a man likely to be robbed when you put every possible thing under lock and key, and mount guard day and night?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. I will lock up whatever I think fit, and mount guard when and where I please. Did you ever see such spies as are set upon me to take note of everything I do? (<em>Aside</em>) I tremble for fear he should suspect something of my money. (<em>Aloud</em>) Now, aren't you a fellow to give rise to stories about my having money hid in my house?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Fl. You have some money hid in your house?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. No, scoundrel! I do not say that. (<em>Aside</em>) I am furious! (<em>Aloud</em>) I only ask if out of mischief you do not spread abroad the report that I have some?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Fl. Oh! What does it matter whether you have money, or whether you have not, since it is all the same to us?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. (<em>raising his hand to give</em> La Flèche <em>a blow</em>). Oh! oh! You want to argue, do you? I will give you, and quickly too, some few of these arguments about your ears. Get out of the house, I tell you once more."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Fl. Very well; very well. I am going."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. No, wait; are you carrying anything away with you?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Fl. What can I possibly carry away?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Come here, and let me see. Show me your hands."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Fl. There they are."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. The others."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Fl. The others?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Yes."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Fl. There they are."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. (<em>pointing to</em> La Flèche's <em>breeches</em>). Have you anything hid in here?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Fl. Look for yourself."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. (<em>feeling the knees of the breeches</em>). These wide knee-breeches are convenient receptacles of stolen goods; and I wish a pair of them had been hanged."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Fl. (<em>aside</em>). Ah! how richly such a man deserves what he fears, and what joy it would be to me to steal some of his …"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Eh?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Fl. What?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. What is it you talk of stealing?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Fl. I say that you feel about everywhere to see if I have been stealing anything."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. And I mean to do so too. (<em>He feels in</em> La Flèche's <em>pockets</em>)."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Fl. Plague take all misers and all miserly ways!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Eh? What do you say?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Fl. What do I say?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Yes. What is it you say about misers and miserly ways."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Fl. I say plague take all misers and all miserly ways."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Of whom do you speak?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Fl. Of misers."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. And who are they, these misers?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Fl. Villains and stingy wretches!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. But what do you mean by that?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Fl. Why do you trouble yourself so much about what I say?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. I trouble myself because I think it right to do so."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Fl. Do you think I am speaking about you?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. I think what I think; but I insist upon your telling me to whom you speak when you say that."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Fl. To whom I speak? I am speaking to the inside of my hat."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. And I will, perhaps, speak to the outside of your head."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Fl. Would you prevent me from cursing misers?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. No; but I will prevent you from prating and from being insolent. Hold your tongue, will you?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Fl. I name nobody."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Another word, and I'll thrash you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Fl. He whom the cap fits, let him wear it."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Will you be silent?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Fl. Yes; much against my will."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Ah! ah!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Fl. (<em>showing</em> Harpagon <em>one of his doublet pockets</em>). Just look, here is one more pocket. Are you satisfied?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Come, give it up to me without all that fuss."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Fl. Give you what?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. What you have stolen from me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Fl. I have stolen nothing at all from you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Are you telling the truth?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Fl. Yes."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Good-bye, then, and now you may go to the devil."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Fl. (<em>aside</em>). That's a nice way of dismissing anyone."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. I leave it to your conscience, remember!"
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Iv."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——HARPAGON (<em>alone</em>.)</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "This rascally valet is a constant vexation to me; and I hate the very sight of the good-for-nothing cripple. Really, it is no small anxiety to keep by one a large sum of money; and happy is the man who has all his cash well invested, and who needs not keep by him more than he wants for his daily expenses. I am not a little puzzled to find in the whole of this house a safe hiding-place. Don't speak to me of your strong boxes, I will never trust to them. Why, they are just the very things thieves set upon!"
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene V."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——HARPAGON, ÉLISE <em>and</em> CLÉANTE <em>are seen talking together at the back of the stage</em>.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. (<em>thinking himself alone</em>.) Meanwhile, I hardly know whether I did right to bury in my garden the ten thousand crowns which were paid to me yesterday. Ten thousand crowns in gold is a sum sufficiently … (<em>Aside, on perceiving</em> Élise <em>and</em> Cléante <em>whispering together</em>) Good heavens! I have betrayed myself; my warmth has carried me away. I believe I spoke aloud while reasoning with myself. (<em>To</em> Cléante <em>and</em> Élise) What do you want?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Nothing, father."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Have you been here long?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Eli. We have only just come."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Did you hear…?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. What, father?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. There…!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. What?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. What I was just now saying."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. No."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. You did. I know you did."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Eli. I beg your pardon, father, but we did not."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. I see well enough that you overheard a few words. The fact is, I was only talking to myself about the trouble one has nowadays to raise any money; and I was saying that he is a fortunate man who has ten thousand crowns in his house."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. We were afraid of coming near you, for fear of intruding."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. I am very glad to tell you this, so that you may not misinterpret things, and imagine that I said that it was I who have ten thousand crowns."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. We do not wish to interfere in your affairs."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Would that I had them, these ten thousand crowns!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. I should not think that …"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. What a capital affair it would be for me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. There are things …"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. I greatly need them."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. I fancy that …"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. It would suit me exceedingly well."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Eli. You are …"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. And I should not have to complain, as I do now, that the times are bad."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Hear me, father, you have no reason to complain; and everyone knows that you are well enough off."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. How? I am well enough off! Those who say it are liars. Nothing can be more false; and they are scoundrels who spread such reports."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Eli. Don't be angry."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. It is strange that my own children betray me and become my enemies."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Is it being your enemy to say that you have wealth?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Yes, it is. Such talk and your extravagant expenses will be the cause that some day thieves will come and cut my throat, in the belief that I am made of gold."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. What extravagant expenses do I indulge in?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. What! Is there anything more scandalous than this sumptuous attire with which you jaunt it about the town? I was remonstrating with your sister yesterday, but you are still worse. It cries vengeance to heaven; and were we to calculate all you are wearing, from head to foot, we should find enough for a good annuity. I have told you a hundred times, my son, that your manners displease me exceedingly; you affect the marquis terribly, and for you to be always dressed as you are, you must certainly rob me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Rob you? And how?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. How should I know? Where else could you find money enough to clothe yourself as you do?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. I, father? I play; and as I am very lucky, I spend in clothes all the money I win."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. It is very wrong. If you are lucky at play, you should profit by it, and place the money you win at decent interest, so that you may find it again some day. I should like to know, for instance, without mentioning the rest, what need there is for all these ribbons with which you are decked from head to foot, and if half a dozen tags are not sufficient to fasten your breeches. What necessity is there for anyone to spend money upon wigs, when we have hair of our own growth, which costs nothing. I will lay a wager that, in wigs and ribbons alone, there are certainly twenty pistoles spent, and twenty pistoles brings in at least eighteen livres six sous eight deniers per annum, at only eight per cent interest."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. You are quite right."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Enough on this subject; let us talk of something else. (<em>Aside, noticing</em> Cléante <em>and</em> Élise, <em>who make signs to one another</em>) I believe they are making signs to one another to pick my pocket. (<em>Aloud</em>) What do you mean by those signs?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Eli. We are hesitating as to who shall speak first, for we both have something to tell you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. And I also have something to tell you both."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. We wanted to speak to you about marriage, father."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. The very thing I wish to speak to you about."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Eli. Ah! my father!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. What is the meaning of that exclamation? Is it the word, daughter, or the thing itself that frightens you?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Marriage may frighten us both according to the way you take it; and our feelings may perhaps not coincide with your choice."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. A little patience, if you please. You need not be alarmed. I know what is good for you both, and you will have no reason to complain of anything I intend to do. To begin at the beginning. (<em>To</em> Cléante) Do you know, tell me, a young person, called Marianne, who lives not far from here?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Yes, father."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. And you?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Eli. I have heard her spoken of."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Well, my son, and how do you like the girl?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. She is very charming."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Her face?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Modest and intelligent."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Her air and manner?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Perfect, undoubtedly."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Do you not think that such a girl well deserves to be thought of?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Yes, father."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. She would form a very desirable match?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Very desirable."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. That there is every likelihood of her making a thrifty and careful wife."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Certainly."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. And that a husband might live very happily with her?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. I have not the least doubt about it."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. There is one little difficulty; I am afraid she has not the fortune we might reasonably expect."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Oh, my father, riches are of little importance when one is sure of marrying a virtuous woman."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. I beg your pardon. Only there is this to be said: that if we do not find as much money as we could wish, we may make it up in something else."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. That follows as a matter of course."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Well, I must say that I am very much pleased to find that you entirely agree with me, for her modest manner and her gentleness have won my heart; and I have made up my mind to marry her, provided I find she has some dowry."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Eh!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. What now?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. You are resolved, you say…?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. To marry Marianne."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Who? you? you?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Yes, I, I, I. What does all this mean?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. I feel a sudden dizziness, and I must withdraw for a little while."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. It will be nothing. Go quickly into the kitchen and drink a large glass of cold water, it will soon set you all right again."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Vi."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——HARPAGON, ÉLISE.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. There goes one of your effeminate fops, with no more stamina than a chicken. That is what I have resolved for myself, my daughter. As to your brother, I have thought for him of a certain widow, of whom I heard this morning; and you I shall give to Mr. Anselme."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Eli. To Mr. Anselme?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Yes, a staid and prudent man, who is not above fifty, and of whose riches everybody speaks."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Eli. (<em>curtseying</em>). I have no wish to marry, father, if you please."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. (<em>imitating</em> Élise). And I, my little girl, my darling, I wish you to marry, if you please."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Eli. (<em>curtseying again</em>). I beg your pardon, my father."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. (<em>again imitating</em> Élise). I beg your pardon, my daughter."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Eli. I am the very humble servant of Mr. Anselme, but (<em>curtseying again</em>), with your leave, I shall not marry him."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. I am your very humble servant, but (<em>again imitating</em> Élise) you will marry him this very evening."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Eli. This evening?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. This evening."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Eli. (<em>curtseying again</em>). It cannot be done, father."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. (<em>imitating</em> Élise). It will be done, daughter."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Eli. No."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Yes."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Eli. No, I tell you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Yes, I tell you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Eli. You will never force me to do such a thing"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. I will force you to it."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Eli. I had rather kill myself than marry such a man."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. You will not kill yourself, and you will marry him. But did you ever see such impudence? Did ever any one hear a daughter speak in such a fashion to her father?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Eli. But did ever anyone see a father marry his daughter after such a fashion?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. It is a match against which nothing can be said, and I am perfectly sure that everybody will approve of my choice."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Eli. And I know that it will be approved of by no reasonable person."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. (<em>seeing</em> Valère). There is Valère coming. Shall we make him judge in this affair?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Eli. Willingly."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. You will abide by what he says?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Eli. Yes, whatever he thinks right, I will do."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Agreed."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Vii."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——VALÈRE, HARPAGON, ÉLISE.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Valère, we have chosen you to decide who is in the right, my daughter or I."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. It is certainly you, Sir."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. But have you any idea of what we are talking about?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. No; but you could not be in the wrong; you are reason itself."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. I want to give her to-night, for a husband, a man as rich as he is good; and the hussy tells me to my face that she scorns to take him. What do you say to that?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. What I say to it?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Yes?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. Eh! eh!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. What?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. I say that I am, upon the whole, of your opinion, and that you cannot but be right; yet, perhaps, she is not altogether wrong; and …"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. How so? Mr. Anselme is an excellent match; he is a nobleman, and a gentleman too; of simple habits, and extremely well off. He has no children left from his first marriage. Could she meet with anything more suitable?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. It is true. But she might say that you are going rather fast, and that she ought to have at least a little time to consider whether her inclination could reconcile itself to …"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. It is an opportunity I must not allow to slip through my fingers. I find an advantage here which I should not find elsewhere, and he agrees to take her without dowry."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. Without dowry?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Yes."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. Ah! I have nothing more to say. A more convincing reason could not be found; and she must yield to that."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. It is a considerable saving to me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. Undoubtedly; this admits of no contradiction. It is true that your daughter might represent to you that marriage is a more serious affair than people are apt to believe; that the happiness or misery of a whole life depends on it, and that an engagement which is to last till death ought not to be entered into without great consideration."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Without dowry!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. That must of course decide everything. There are certainly people who might tell you that on such occasions the wishes of a daughter are no doubt to be considered, and that this great disparity of age, of disposition, and of feelings might be the cause of many an unpleasant thing in a married life."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Without dowry!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. Ah! it must be granted that there is no reply to that; who in the world could think otherwise? I do not mean to say but that there are many fathers who would set a much higher value on the happiness of their daughter than on the money they may have to give for their marriage; who would not like to sacrifice them to their own interests, and who would, above all things, try to see in a marriage that sweet conformity of tastes which is a sure pledge of honour, tranquillity and joy; and that …"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Without dowry!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. That is true; nothing more can be said. Without dowry. How can anyone resist such arguments?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. (<em>aside, looking towards the garden</em>). Ah! I fancy I hear a dog barking. Is anyone after my money. (<em>To</em> Valère) Stop here, I'll come back directly."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Viii."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——ÉLISE, VALÈRE.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Eli. Surely, Valère, you are not in earnest when you speak to him in that manner?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. I do it that I may not vex him, and the better to secure my ends. To resist him boldly would simply spoil everything. There are certain people who are only to be managed by indirect means, temperaments averse from all resistance, restive natures whom truth causes to rear, who always kick when we would lead them on the right road of reason, and who can only be led by a way opposed to that by which you wish them to go. Pretend to comply with his wishes; you are much more likely to succeed in the end, and …"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Eli. But this marriage, Valère?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. We will find some pretext for breaking it off."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Eli. But what pretext can we find if it is to be concluded to-night?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. You must ask to have it delayed, and must feign some illness or other."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Eli. But he will soon discover the truth if they call in the doctor."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. Not a bit of it. Do you imagine that a doctor understands what he is about? Nonsense! Don't be afraid. Believe me, you may complain of any disease you please, the doctor will be at no loss to explain to you from what it proceeds."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Ix——harpagon, éLise, Valère."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. (<em>alone, at the farther end of the stage</em>). It is nothing, thank heaven!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. (<em>not seeing</em> Harpagon). In short, flight is the last resource we have left us to avoid all this; and if your love, dear Élise, is as strong as … (<em>Seeing</em> Harpagon) Yes, a daughter is bound to obey her father. She has no right to inquire what a husband offered to her is like, and when the most important question, \"without dowry,\" presents itself, she should accept anybody that is given her."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Good; that was beautifully said!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. I beg your pardon, Sir, if I carry it a little too far, and take upon myself to speak to her as I do."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Why, I am delighted, and I wish you to have her entirely under your control. (<em>To</em> Élise) Yes, you may run away as much as you like. I give him all the authority over you that heaven has given me, and I will have you do all that he tells you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. After that, resist all my expostulations, if you can."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene X."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——HARPAGON, VALÈRE.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. I will follow her, Sir, if you will allow me, and will continue the lecture I was giving her."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Yes, do so; you will oblige me greatly."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. She ought to be kept in with a tight hand."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Quite true, you must …"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. Do not be afraid; I believe I shall end by convincing her."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Do so, do so. I am going to take a short stroll in the town, and I will come back again presently."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. (<em>going towards the door through which</em> Élise <em>left, and speaking as if it were to her</em>). Yes, money is more precious than anything else in the world, and you should thank heaven that you have so worthy a man for a father. He knows what life is. When a man offers to marry a girl without a dowry, we ought to look no farther. Everything is comprised in that, and \"without dowry\" compensates for want of beauty, youth, birth, honour, wisdom, and probity."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Ah! the honest fellow! he speaks like an oracle. Happy is he who can secure such a servant!"
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h4",
+    "innerHtml": "Act Ii."
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene I."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——CLÉANTE, LA FLÈCHE.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. How now, you rascal! where have you been hiding? Did I not give you orders to…?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Fl. Yes, Sir, and I came here resolved to wait for you without stirring, but your father, that most ungracious of men, drove me into the street in spite of myself, and I well nigh got a good drubbing into the bargain."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. How is our affair progressing? Things are worse than ever for us, and since I left you, I have discovered that my own father is my rival."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Fl. Your father in love?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. It seems so; and I found it very difficult to hide from him what I felt at such a discovery."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Fl. He meddling with love! What the deuce is he thinking of? Does he mean to set everybody at defiance? And is love made for people of his build?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. It is to punish me for my sins that this passion has entered his head."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Fl. But why do you hide your love from him?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. That he may not suspect anything, and to make it more easy for me to fall back, if need be, upon some device to prevent this marriage. What answer did you receive?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Fl. Indeed, Sir, those who borrow are much to be pitied, and we must put up with strange things when, like you, we are forced to pass through the hands of the usurers."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Then the affair won't come off?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Fl. Excuse me; Mr. Simon, the broker who was recommended to us, is a very active and zealous fellow, and says he has left no stone unturned to help you. He assures me that your looks alone have won his heart."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Shall I have the fifteen thousand francs which I want?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Fl. Yes, but under certain trifling conditions, which you must accept if you wish the bargain to be concluded."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Did you speak to the man who is to lend the money?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Fl. Oh! dear no. Things are not done in that way. He is still more anxious than you to remain unknown. These things are greater mysteries than you think. His name is not by any means to be divulged, and he is to be introduced to you to-day at a house provided by him, so that he may hear from yourself all about your position and your family; and I have not the least doubt that the mere name of your father will be sufficient to accomplish what you wish."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Particularly as my mother is dead, and they cannot deprive me of what I inherit from her."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Fl. Well, here are some of the conditions which he has himself dictated to our go-between for you to take cognisance of, before anything is begun."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "\"Supposing that the lender is satisfied with all his securities, and that the borrower is of age and of a family whose property is ample, solid, secure, and free from all incumbrances, there shall be drawn up a good and correct bond before as honest a notary as it is possible to find, and who for this purpose shall be chosen by the lender, because he is the more concerned of the two that the bond should be rightly executed.\""
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. There is nothing to say against that."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "LA FA. \"The lender, not to burden his conscience with the least scruple, does not wish to lend his money at more than five and a half per cent.\""
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Five and a half per cent? By Jove, that's honest! We have nothing to complain of."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Fl. That's true."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "\"But as the said lender has not in hand the sum required, and as, in order to oblige the borrower, he is himself obliged to borrow from another at the rate of twenty per cent., it is but right that the said first borrower shall pay this interest, without detriment to the rest; since it is only to oblige him that the said lender is himself forced to borrow.\""
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. The deuce! What a Jew! what a Turk we have here! That is more than twenty-five per cent."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Fl. That's true; and it is the remark I made. It is for you to consider the matter before you act."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. How can I consider? I want the money, and I must therefore accept everything."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Fl. That is exactly what I answered."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Is there anything else?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Fl. Only a small item."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "\"Of the fifteen thousand francs which are demanded, the lender will only be able to count down twelve thousand in hard cash; instead of the remaining three thousand, the borrower will have to take the chattels, clothing, and jewels, contained in the following catalogue, and which the said lender has put in all good faith at the lowest possible figure.\""
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. What is the meaning of all that?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Fl. I'll go through the catalogue:—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "\"Firstly:—A fourpost bedstead, with hangings of Hungary lace very elegantly trimmed with olive-coloured cloth, and six chairs and a counterpane to match; the whole in very good condition, and lined with soft red and blue shot-silk. Item:—the tester of good pale pink Aumale serge, with the small and the large fringes of silk.\""
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. What does he want me to do with all this?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Fl. Wait."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "\"Item:—Tapestry hangings representing the loves of Gombaud and Macée. Item:—A large walnut table with twelve columns or turned legs, which draws out at both ends, and is provided beneath with six stools.\""
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Hang it all! What am I to do with all this?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Fl. Have patience."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "\"Item:—Three large matchlocks inlaid with mother-of-pearl, with rests to correspond. Item:—A brick furnace with two retorts and three receivers, very useful to those who have any taste for distilling.\""
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. You will drive me crazy."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Fl. Gently!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "\"Item:—A Bologna lute with all its strings, or nearly all. Item:—A pigeon-hole table and a draught-board, and a game of mother goose, restored from the Greeks, most useful to pass the time when one has nothing to do. Item:—A lizard's skin, three feet and a half in length, stuffed with hay, a pleasing curiosity to hang on the ceiling of a room. The whole of the above-mentioned articles are really worth more than four thousand five hundred francs, and are reduced to the value of a thousand crowns through the considerateness of the lender.\""
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Let the plague choke him with his considerateness, the wretch, the cut-throat that he is! Did ever anyone hear of such usury? Is he not satisfied with the outrageous interest he asks that he must force me to take, instead of the three thousand francs, all the old rubbish which he picks up. I shan't get two hundred crowns for all that, and yet I must bring myself to yield to all his wishes; for he is in a position to force me to accept everything, and he has me, the villain, with a knife at my throat."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Fl. I see you, Sir, if you'll forgive my saying so, on the high-road followed by Panurge to ruin himself—taking money in advance, buying dear, selling cheap, and cutting your corn while it is still grass."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. What would you have me do? It is to this that young men are reduced by the accursed avarice of their fathers; and people are astonished after that, that sons long for their death."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Fl. No one can deny that yours would excite against his meanness the most quiet of men. I have not, thank God, any inclination gallows- ward, and among my colleagues whom I see dabbling in various doubtful affairs, I know well enough how to keep myself out of hot water, and how to keep clear of all those things which savour ever so little of the ladder; but to tell you the truth, he almost gives me, by his ways of going on, the desire of robbing him, and I should think that in doing so I was doing a meritorious action."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Give me that memorandum that I may have another look at it."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Ii."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——HARPAGON, MR. SIMON (CLÉANTE <em>and</em> LA FLÈCHE <em>at the back of the stage</em>).</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Sim. Yes, Sir; it is a young man who is greatly in want of money; his affairs force him to find some at any cost, and he will submit to all your conditions."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. But are you sure, Mr. Simon, that there is no risk to run in this case? and do you know the name, the property, and the family of him for whom you speak?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Sim. No; I cannot tell you anything for certain, as it was by mere chance that I was made acquainted with him; but he will tell you everything himself, and his servant has assured me that you will be quite satisfied when you know who he is. All I can tell you is that his family is said to be very wealthy, that he has already lost his mother, and that he will pledge you his word, if you insist upon it, that his father will die before eight months are passed."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. That is something. Charity, Mr. Simon, demands of us to gratify people whenever we have it in our power."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Sim. Evidently."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Fl. (<em>aside to</em> Cléante, <em>on recognising</em> Mr. Simon). What does this mean? Mr. Simon talking with your father!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. (<em>aside to</em> La Flèche). Has he been told who I am, and would you be capable of betraying me?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Sim. (<em>to</em> Cléante <em>and</em> La Flèche). Ah! you are in good time! But who told you to come here? (<em>To</em> Harpagon) It was certainly not I who told them your name and address; but I am of opinion that there is no great harm done; they are people who can be trusted, and you can come to some understanding together."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. What!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Sim. (<em>showing</em> Cléante). This is the gentleman who wants to borrow the fifteen thousand francs of which I have spoken to you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. What! miscreant! is it you who abandon yourself to such excesses?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. What! father! is it you who stoop to such shameful deeds?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "(M. Simon <em>runs away, and</em> La Flèche <em>hides himself</em>.)"
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Iii."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——HARPAGON, CLÉANTE.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. It is you who are ruining yourself by loans so greatly to be condemned!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. So it is you who seek to enrich yourself by such criminal usury!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. And you dare, after that, to show yourself before me?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. And you dare, after that, to show yourself to the world?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Are you not ashamed, tell me, to descend to these wild excesses, to rush headlong into frightful expenses, and disgracefully to dissipate the wealth which your parents have amassed with so much toil."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Are you not ashamed of dishonouring your station by such dealings, of sacrificing honour and reputation to the insatiable desire of heaping crown upon crown, and of outdoing the most infamous devices that have ever been invented by the most notorious usurers?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Get out of my sight, you reprobate; get out of my sight!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Who is the more criminal in your opinion: he who buys the money of which he stands in need, or he who obtains, by unfair means, money for which he has no use?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Begone, I say, and do not provoke me to anger. (<em>Alone</em>) After all, I am not very much vexed at this adventure; it will be a lesson to me to keep a better watch over all his doings."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Iv."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——FROSINE, HARPAGON.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fro. Sir."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Wait a moment, I will come back and speak to you. (<em>Aside</em>) I had better go and see a little after my money."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene V."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——LA FLÈCHE, FROSINE.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Fl. (<em>without seeing</em> Frosine). The adventure is most comical. Hidden somewhere he must have a large store of goods of all kinds, for the list did not contain one single article which either of us recognised."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fro. Hallo! is it you, my poor La Flèche? How is it we meet here?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Fl. Ah! ah! it is you, Frosine; and what have you come to do here?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fro. What have I come to do? Why! what I do everywhere else, busy myself about other people's affairs, make myself useful to the community in general, and profit as much as I possibly can by the small talent I possess. Must we not live by our wits in this world? and what other resources have people like me but intrigue and cunning?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Fl. Have you, then, any business with the master of this house?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fro. Yes. I am transacting for him a certain small matter for which he is pretty sure to give me a reward."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Fl. He give you a reward! Ah! ah! Upon my word, you will be 'cute if you ever get one, and I warn you that ready money is very scarce hereabouts."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fro. That may be, but there are certain services which wonderfully touch our feelings."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Fl. Your humble servant; but as yet you don't know Harpagon. Harpagon is the human being of all human beings the least humane, the mortal of all mortals the hardest and closest. There is no service great enough to induce him to open his purse. If, indeed, you want praise, esteem, kindness, and friendship, you are welcome to any amount; but money, that's a different affair. There is nothing more dry, more barren, than his favour and his good grace, and \"<em>give</em>\" is a word for which he has such a strong dislike that he never says <em>I give</em>, but <em>I lend, you a good morning</em>."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fro. That's all very well; but I know the art of fleecing men. I have a secret of touching their affections by flattering their hearts, and of finding out their weak points."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Fl. All useless here. I defy you to soften, as far as money is concerned, the man we are speaking of. He is a Turk on that point, of a Turkishness to drive anyone to despair, and we might starve in his presence and never a peg would he stir. In short, he loves money better than reputation, honour, and virtue, and the mere sight of anyone making demands upon his purse sends him into convulsions; it is like striking him in a vital place, it is piercing him to the heart, it is like tearing out his very bowels! And if … But here he comes again; I leave you."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Vi."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——HARPAGON, FROSINE.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. (<em>aside</em>). All is as it should be. (<em>To</em> Frosine) Well, what is it, Frosine?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fro. Bless me, how well you look! You are the very picture of health."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Who? I?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fro. Never have I seen you looking more rosy, more hearty."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Are you in earnest?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fro. Why! you have never been so young in your life; and I know many a man of twenty-five who looks much older than you do."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. And yet, Frosine, I have passed threescore."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fro. Threescore! Well, and what then? You don't mean to make a trouble of that, do you? It's the very flower of manhood, the threshold of the prime of life."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. True; but twenty years less would do me no harm, I think."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fro. Nonsense! You've no need of that, and you are of a build to last out a hundred."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Do you really think so?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fro. Decidedly. You have all the appearance of it. Hold yourself up a little. Ah! what a sign of long life is that line there straight between your two eyes!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. You know all about that, do you?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fro. I should think I do. Show me your hand. Dear me, what a line of life there is there!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Where?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fro. Don't you see how far this line goes?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Well, and what does it mean?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fro. What does it mean? There … I said a hundred years; but no, it is one hundred and twenty I ought to have said."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Is it possible?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fro. I tell you they will have to kill you, and you will bury your children and your children's children."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. So much the better! And what news of our affair?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fro. Is there any need to ask? Did ever anyone see me begin anything and not succeed in it? I have, especially for matchmaking, the most wonderful talent. There are no two persons in the world I could not couple together; and I believe that, if I took it into my head, I could make the Grand Turk marry the Republic of Venice. But we had, to be sure, no such difficult thing to achieve in this matter. As I know the ladies very well, I told them every particular about you; and I acquainted the mother with your intentions towards Marianne since you saw her pass in the street and enjoy the fresh air out of her window."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. What did she answer…?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fro. She received your proposal with great joy; and when I told her that you wished very much that her daughter should come to-night to assist at the marriage contract which is to be signed for your own daughter, she assented at once, and entrusted her to me for the purpose."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. You see, Frosine, I am obliged to give some supper to Mr. Anselme, and I should like her to have a share in the feast."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fro. You are quite right. She is to come after dinner to pay a visit to your daughter; then she means to go from here to the fair, and return to your house just in time for supper."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. That will do very well; they shall go together in my carriage, which I will lend them."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fro. That will suit her perfectly."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. But I say, Frosine, have you spoken to the mother about the dowry she can give her daughter? Did you make her understand that under such circumstances she ought to do her utmost and to make a great sacrifice? For, after all, one does not marry a girl without her bringing something with her."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fro. How something! She is a girl who will bring you a clear twelve thousand francs a year?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Twelve thousand francs a year?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fro. Yes! To begin with, she has been nursed and brought up with the strictest notions of frugality. She is a girl accustomed to live upon salad, milk, cheese, and apples, and who consequently will require neither a well served up table, nor any rich broth, nor your everlasting peeled barley; none, in short, of all those delicacies that another woman would want. This is no small matter, and may well amount to three thousand francs yearly. Besides this, she only cares for simplicity and neatness; she will have none of those splendid dresses and rich jewels, none of that sumptuous furniture in which girls like her indulge so extravagantly; and this item is worth more than four thousand francs per annum. Lastly, she has the deepest aversion to gambling; and this is not very common nowadays among women. Why, I know of one in our neighbourhood who lost at least twenty thousand francs this year. But let us reckon only a fourth of that sum. Five thousand francs a year at play and four thousand in clothes and jewels make nine thousand; and three thousand francs which we count for food, does it not make your twelve thousand francs?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Yes, that's not bad; but, after all, that calculation has nothing real in it."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fro. Excuse me; is it nothing real to bring you in marriage a great sobriety, to inherit a great love for simplicity in dress, and the acquired property of a great hatred for gambling?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. It is a farce to pretend to make up a dowry with all the expenses she will not run into. I could not give a receipt for what I do not receive; and I must decidedly get something."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fro. Bless me! you will get enough; and they have spoken to me of a certain country where they have some property, of which you will be master."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. We shall have to see to that. But, Frosine, there is one more thing that makes me uneasy. The girl is young, you know; and young people generally like those who are young like themselves, and only care for the society of the young. I am afraid that a man of my age may not exactly suit her taste, and that this may occasion in my family certain complications that would in nowise be pleasant to me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fro. Oh, how badly you judge her! This is one more peculiarity of which I had to speak to you. She has the greatest detestation to all young men, and only likes old people."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Does she?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fro. I should like you to hear her talk on that subject; she cannot bear at all the sight of a young man, and nothing delights her more than to see a fine old man with a venerable beard. The oldest are to her the most charming, and I warn you beforehand not to go and make yourself any younger than you really are. She wishes for one sixty years old at least; and it is not more than six months ago that on the very eve of being married she suddenly broke off the match on learning that her lover was only fifty-six years of age, and did not put on spectacles to sign the contract."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Only for that?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fro. Yes; she says there is no pleasure with a man of fifty-six; and she has a decided affection for those who wear spectacles."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Well, this is quite new to me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fro. No one can imagine how far she carries this. She has in her room a few pictures and engravings, and what do you imagine they are? An Adonis, a Cephalus, a Paris, an Apollo? Not a bit of it! Fine portraits of Saturn, of King Priam, of old Nestor, and of good father Anchises on his son's shoulders."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. That's admirable. I should never have guessed such a thing; and I am very pleased to hear that she has such taste as this. Indeed had I been a woman, I should never have loved young fellows."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fro. I should think not. Fine trumpery indeed, these young men, for any one to fall in love with. Fine jackanapes and puppies for a woman to hanker after. I should like to know what relish anyone can find in them?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Truly; I don't understand it myself, and I cannot make out how it is that some women dote so on them."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fro. They must be downright idiots. Can any one be in his senses who thinks youth amiable? Can those curly-pated coxcombs be men, and can one really get attached to such animals?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Exactly what I say every day! With their effeminate voices, their three little bits of a beard turned up like cat's whiskers, their tow wigs, their flowing breeches and open breasts!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fro. Yes; they are famous guys compared with yourself. In you we see something like a man. There is enough to satisfy the eye. It is thus that one should be made and dressed to inspire love."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Then you think I am pretty well?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fro. Pretty well! I should think so; you are charming, and your face would make a beautiful picture. Turn round a little, if you please. You could not find anything better anywhere. Let me see you walk. You have a well-shaped body, free and easy, as it should be, and one which gives no sign of infirmity."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. I have nothing the matter to speak of, I am thankful to say. It is only my cough, which returns from time to time."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fro. That is nothing, and coughing becomes you exceedingly well."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Tell me, Frosine, has Marianne seen me yet? Has she not noticed me when I passed by?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fro. No; but we have had many conversations about you. I gave her an exact description of your person, and I did not fail to make the most of your merit, and to show her what an advantage it would be to have a husband like you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. You did right, and I thank you very much for it."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fro. I have, Sir, a small request to make to you. I am in danger of losing a lawsuit for want of a little money (Harpagon <em>looks grave</em>), and you can easily help me with it, if you have pity upon me. You cannot imagine how happy she will be to see you. (Harpagon <em>looks joyful</em>.) Oh! how sure you are to please her, and how sure that antique ruff of yours is to produce a wonderful effect on her mind. But, above all, she will be delighted with your breeches fastened to your doublet with tags; that will make her mad after you, and a lover who wears tags will be most welcome to her."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. You send me into raptures, Frosine, by saying that."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fro. I tell you the truth, Sir; this lawsuit is of the utmost importance for me. (Harpagon <em>looks serious again</em>.) If I lose it, I am for ever ruined; but a very small sum will save me. I should like you to have seen the happiness she felt when I spoke of you to her. (Harpagon <em>looks pleased again</em>.) Joy sparkled in her eyes while I told her of all your good qualities; and I succeeded, in short, in making her look forward with the greatest impatience to the conclusion of the match."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. You have given me great pleasure, Frosine, and I assure you I …"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fro. I beg of you, Sir, to grant me the little assistance I ask of you. (Harpagon <em>again looks grave</em>.) It will put me on my feet again, and I shall feel grateful to you for ever."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Good-bye; I must go and finish my correspondence."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fro. I assure you, Sir, that you could not help me in a more pressing necessity."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. I will see that my carriage is ready to take you to the fair."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fro. I would not importune you so if I were not compelled by necessity."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. And I will see that we have supper early, so that nobody may be ill."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fro. Do not refuse me the service; I beg of you. You can hardly believe, Sir, the pleasure that …"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. I must go; somebody is calling me. We shall see each other again by and by."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fro. (<em>alone</em>). May the fever seize you, you stingy cur, and send you to the devil and his angels! The miser has held out against all my attacks; but I must not drop the negotiation; for I have the other side, and there, at all events, I am sure of a good reward."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h4",
+    "innerHtml": "Act Iii."
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene I."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——HARPAGON, CLÉANTE, ÉLISE, VALÈRE, DAME CLAUDE (<em>holding a broom</em>), MASTER JACQUES, LA MERLUCHE, BRINDAVOINE.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Here, come here, all of you; I must give you orders for by and by, and arrange what each one will have to do. Come nearer, Dame Claude; let us begin with you. (<em>Looking at her broom.</em>) Good; you are ready armed, I see. To you I commit the care of cleaning up everywhere; but, above all, be very careful not to rub the furniture too hard, for fear of wearing it out. Besides this, I put the bottles under your care during supper, and if any one of them is missing, or if anything gets broken, you will be responsible for it, and pay it out of your wages."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. (<em>aside</em>). A shrewd punishment that."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. (<em>to</em> Dame Claude.) Now you may go."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Ii."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——HARPAGON, CLÉANTE, ÉLISE, VALÈRE, MASTER JACQUES, BRINDAVOINE, LA MERLUCHE.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. To you, Brindavoine, and to you, La Merluche, belongs the duty of washing the glasses, and of giving to drink, but only when people are thirsty, and not according to the custom of certain impertinent lackeys, who urge them to drink, and put the idea into their heads when they are not thinking about it. Wait until you have been asked several times, and remember always to have plenty of water."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. (<em>aside</em>). Yes; wine without water gets into one's head."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Mer. Shall we take off our smocks, Sir?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Yes, when you see the guests coming; but be very careful not to spoil your clothes."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Brind. You know, Sir, that one of the fronts of my doublet is covered with a large stain of oil from the lamp."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Mer. And I, Sir, that my breeches are all torn behind, and that, saving your presence …"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. (<em>to</em> La Merluche). Peace! Turn carefully towards the wall, and always face the company. (<em>To</em> Brindavoine, <em>showing him how he is to hold his hat before his doublet, to hide the stain of oil</em>) And you, always hold your hat in this fashion when you wait on the guests."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Iii."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——HARPAGON, CLÉANTE, ÉLISE, VALÈRE, MASTER JACQUES.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. As for you, my daughter, you will look after all that is cleared off the table, and see that nothing is wasted: this care is very becoming to young girls. Meanwhile get ready to welcome my lady-love, who is coming this afternoon to pay you a visit, and will take you off to the fair with her. Do you understand what I say?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Eli. Yes, father."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Iv."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——HARPAGON, CLÉANTE, VALÈRE, MASTER JACQUES.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. And you, my young dandy of a son to whom I have the kindness of forgiving what happened this morning, mind you don't receive her coldly, or show her a sour face."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Receive her coldly! And why should I?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Why? why? We know pretty well the ways of children whose fathers marry again, and the looks they give to those we call stepmothers. But if you wish me to forget your last offence, I advise you, above all things, to receive her kindly, and, in short, to give her the heartiest welcome you can."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. To speak the truth, father, I cannot promise you that I am very happy to see her become my stepmother; but as to receiving her properly, and as to giving her a kind welcome, I promise to obey you in that to the very letter."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Be careful you do, at least."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. You will see that you have no cause to complain."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. You will do wisely."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene V."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——HARPAGON, VALÈRE, MASTER JACQUES.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Valère, you will have to give me your help in this business. Now, Master Jacques, I kept you for the last."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. Is it to your coachman, Sir, or to your cook you want to speak, for I am both the one and the other?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. To both."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. But to which of the two first?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. To the cook."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. Then wait a minute, if you please."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "(Jacques <em>takes off his stable-coat and appears dressed as a cook.</em>)"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. What the deuce is the meaning of this ceremony?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. Now I am at your service."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. I have engaged myself, Master Jacques, to give a supper to-night."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. (<em>aside</em>). Wonderful!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Tell me, can you give us a good supper?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. Yes, if you give me plenty of money."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. The deuce! Always money! I think they have nothing else to say except money, money, money! Always that same word in their mouth, money! They always speak of money! It's their pillow companion, money!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. Never did I hear such an impertinent answer! Would you call it wonderful to provide good cheer with plenty of money? Is it not the easiest thing in the world? The most stupid could do as much. But a clever man should talk of a good supper with little money."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. A good supper with little money?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. Yes."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. (<em>to</em> Valère). Indeed, Mr. Steward, you will oblige me greatly by telling me your secret, and also, if you like, by filling my place as cook; for you keep on meddling here, and want to be everything."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Hold your tongue. What shall we want?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. Ask that of Mr. Steward, who will give you good cheer with little money."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Do you hear? I am speaking to you, and expect you to answer me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. How many will there be at your table?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Eight or ten; but you must only reckon for eight. When there is enough for eight, there is enough for ten."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. That is evident."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. Very well, then; you must have four tureens of soup and five side dishes; soups, entrées …"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. What! do you mean to feed a whole town?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. Roast …"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. (<em>clapping his hand on</em> Master Jacques' <em>mouth</em>). Ah! Wretch! you are eating up all my substance."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. Entremêts …"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. (<em>again putting his hand on</em> Jacques' <em>mouth</em>). More still?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. (<em>to</em> Jacques). Do you mean to kill everybody? And has your master invited people in order to destroy them with over-feeding? Go and read a little the precepts of health, and ask the doctors if there is anything so hurtful to man as excess in eating."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. He is perfectly right."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. Know, Master Jacques, you and people like you, that a table overloaded with eatables is a real cut-throat; that, to be the true friends of those we invite, frugality should reign throughout the repast we give, and that according to the saying of one of the ancients, \"We must eat to live, and not live to eat.\""
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Ah! How well the man speaks! Come near, let me embrace you for this last saying. It is the finest sentence that I have ever heard in my life: \"We must live to eat, and not eat to live.\" No; that isn't it. How do you say it?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. That we must eat to live, and not live to eat."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. (<em>to</em> Master Jacques). Yes. Do you hear that? (<em>To</em> Valère) Who is the great man who said that?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. I do not exactly recollect his name just now."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Remember to write down those words for me. I will have them engraved in letters of gold over the mantel-piece of my dining-room."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. I will not fail. As for your supper, you had better let me manage it. I will see that it is all as it should be."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Do so."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. So much the better; all the less work for me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. (<em>to</em> Valère). We must have some of those things of which it is not possible to eat much, and that satisfy directly. Some good fat beans, and a pâté well stuffed with chestnuts."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. Trust to me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Now, Master Jacques, you must clean my carriage."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. Wait a moment; this is to the coachman. (Jacques <em>puts on his coat.</em>) You say …"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. That you must clean my carriage, and have my horses ready to drive to the fair."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. Your horses! Upon my word, Sir, they are not at all in a condition to stir. I won't tell you that they are laid up, for the poor things have got nothing to lie upon, and it would not be telling the truth. But you make them keep such rigid fasts that they are nothing but phantoms, ideas, and mere shadows of horses."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. They are much to be pitied. They have nothing to do."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. And because they have nothing to do, must they have nothing to eat? It would be much better for them, poor things, to work much and eat to correspond. It breaks my heart to see them so reduced; for, in short, I love my horses; and when I see them suffer, it seems as if it were myself. Every day I take the bread out of my own mouth to feed them; and it is being too hard-hearted, Sir, to have no compassion upon one's neighbour."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. It won't be very hard work to go to the fair."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. No, Sir. I haven't the heart to drive them; it would go too much against my conscience to use the whip to them in the state they are in. How could you expect them to drag a carriage? They have not even strength enough to drag themselves along."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. Sir, I will ask our neighbour, Picard, to drive them; particularly as we shall want his help to get the supper ready."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. Be it so. I had much rather they should die under another's hand than under mine."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. Master Jacques is mightily considerate."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. Mr. Steward is mightily indispensable."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Peace."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. Sir, I can't bear these flatteries, and I can see that, whatever this man does, his continual watching after the bread, wine, wood, salt, and candles, is done but to curry favour and to make his court to you. I am indignant to see it all; and I am sorry to hear every day what is said of you; for, after all, I have a certain tenderness for you; and, except my horses, you are the person I like most in the world."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. And I would know from you, Master Jacques, what it is that is said of me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. Yes, certainly, Sir, if I were sure you would not get angry with me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. No, no; never fear."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. Excuse me, but I am sure you will be angry."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. No, on the contrary, you will oblige me. I should be glad to know what people say of me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. Since you wish it, Sir, I will tell you frankly that you are the laughing-stock of everybody; that they taunt us everywhere by a thousand jokes on your account, and that nothing delights people more than to make sport of you, and to tell stories without end about your stinginess. One says that you have special almanacks printed, where you double the ember days and vigils, so that you may profit by the fasts to which you bind all your house; another, that you always have a ready-made quarrel for your servants at Christmas time or when they leave you, so that you may give them nothing. One tells a story how not long since you prosecuted a neighbour's cat because it had eaten up the remainder of a leg of mutton; another says that one night you were caught stealing your horses' oats, and that your coachman,—that is the man who was before me,—gave you, in the dark, a good sound drubbing, of which you said nothing. In short, what is the use of going on? We can go nowhere but we are sure to hear you pulled to pieces. You are the butt and jest and byword of everybody; and never does anyone mention you but under the names of miser, stingy, mean, niggardly fellow and usurer."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. (<em>beating</em> Jacques). You are a fool, a rascal, a scoundrel, and an impertinent wretch."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. There, there! Did not I know how it would be? You would not believe me. I told you I should make you angry if I spoke the truth?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Learn how to speak."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Vi."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——VALÈRE, MASTER JACQUES.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. (<em>laughing</em>). Well, Master Jacques, your frankness is badly rewarded, I fear."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. S'death! Mr. Upstart, you who assume the man of consequence, it is no business of yours as far as I can see. Laugh at your own cudgelling when you get it, and don't come here and laugh at mine."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. Ah! Master Jacques, don't get into a passion, I beg of you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. (<em>aside</em>). He is drawing in his horns. I will put on a bold face, and if he is fool enough to be afraid of me, I will pay him back somewhat. (<em>To</em> Valère) Do you know, Mr. Grinner, that I am not exactly in a laughing humour, and that if you provoke me too much, I shall make you laugh after another fashion. (Jacques <em>pushes</em> Valère <em>to the farther end of the stage, threatening him.</em>)"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. Gently, gently."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. How gently? And if it does not please me to go gently?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. Come, come! What are you about?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. You are an impudent rascal."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. Master Jacques …"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. None of your Master Jacques here! If I take up a stick, I shall soon make you feel it."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. What do you mean by a stick? (<em>Drives back</em> Jacques <em>in his turn.</em>)"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. No; I don't say anything about that."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. Do you know, Mr. Conceit, that I am a man to give you a drubbing in good earnest?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. I have no doubt of it."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. That, after all, you are nothing but a scrub of a cook?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. I know it very well."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. And that you don't know me yet?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. I beg your pardon."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. You will beat me, you say?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. I only spoke in jest."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. I don't like your jesting, and (<em>beating</em> Jacques) remember that you are but a sorry hand at it."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. (<em>alone</em>). Plague take all sincerity; it is a bad trade. I give it up for the future, and will cease to tell the truth. It is all very well for my master to beat me; but as for that Mr. Steward, what right has he to do it? I will be revenged on him if I can."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Vii."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——MARIANNE, FROSINE, MASTER JACQUES.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fro. Do you know if your master is at home?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. Yes, he is indeed; I know it but too well."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fro. Tell him, please, that we are here."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Viii."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——MARIANNE, FROSINE.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mar. Ah! Frosine, how strange I feel, and how I dread this interview!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fro. Why should you? What can you possibly dread?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mar. Alas! can you ask me? Can you not understand the alarms of a person about to see the instrument of torture to which she is to be tied."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fro. I see very well that to die agreeably, Harpagon is not the torture you would embrace; and I can judge by your looks that the fair young man you spoke of to me is still in your thoughts."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mar. Yes, Frosine; it is a thing I do not wish to deny. The respectful visits he has paid at our house have left, I confess, a great impression on my heart."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fro. But do you know who he is?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mar. No, I do not. All I know is that he is made to be loved; that if things were left to my choice, I would much rather marry him than any other, and that he adds not a little to the horrible dread that I have of the husband they want to force upon me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fro. Oh yes! All those dandies are very pleasant, and can talk agreeably enough, but most of them are as poor as church mice; and it is much better for you to marry an old husband, who gives you plenty of money. I fully acknowledge that the senses somewhat clash with the end I propose, and that there are certain little inconveniences to be endured with such a husband; but all that won't last; and his death, believe me, will soon put you in a position to take a more pleasant husband, who will make amends for all."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mar. Oh, Frosine! What a strange state of things that, in order to be happy, we must look forward to the death of another. Yet death will not fall in with all the projects we make."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fro. You are joking. You marry him with the express understanding that he will soon leave you a widow; it must be one of the articles of the marriage contract. It would be very wrong in him not to die before three months are over. Here he is himself."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mar. Ah! dear Frosine, what a face!"
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Ix."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——HARPAGON, MARIANNE, FROSINE.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. (<em>to</em> Marianne). Do not be offended, fair one, if I come to you with my glasses on. I know that your beauty is great enough to be seen with the naked eye; but, still, it is with glasses that we look at the stars, and I maintain and uphold that you are a star, the most beautiful and in the land of stars. Frosine, she does not answer, star, it seems to me, shows no joy at the sight of me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fro. It is because she is still quite awe-struck, and young girls are always shy at first, and afraid of showing what they feel."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. (<em>to</em> Frosine). You are right. (<em>To</em> Marianne) My pretty darling, there is my daughter coming to welcome you."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene X."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——HARPAGON, ÉLISE, MARIANNE, FROSINE.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mar. I am very late in acquitting myself of the visit I owed you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Eli. You have done what I ought to have done. It was for me to have come and seen you first."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. You see what a great girl she is; but ill weeds grow apace."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mar. (<em>aside to</em> Frosine). Oh, what an unpleasant man!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. (<em>to</em> Frosine). What does my fair one say?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fro. That she thinks you perfect."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. You do me too much honour, my adorable darling."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mar. (<em>aside</em>). What a dreadful creature!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. I really feel too grateful to you for these sentiments."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mar. (<em>aside</em>). I can bear it no longer."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Xi."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——HARPAGON, MARIANNE, ÉLISE, CLÉANTE, VALÈRE, FROSINE, BRINDAVOINE.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Here is my son, who also comes to pay his respects to you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mar. (<em>aside to</em> Frosine). Oh, Frosine! what a strange meeting! He is the very one of whom I spoke to you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fro. (<em>to</em> Marianne). Well, that is extraordinary."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. You are surprised to see that my children can be so old; but I shall soon get rid of both of them."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. (<em>to</em> Marianne). Madam, to tell you the truth, I little expected such an event; and my father surprised me not a little when he told me to-day of the decision he had come to."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mar. I can say the same thing. It is an unexpected meeting; and I certainly was far from being prepared for such an event."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Madam, my father cannot make a better choice, and it is a great joy to me to have the honour of welcoming you here. At the same time, I cannot say that I should rejoice if it were your intention to become my stepmother. I must confess that I should find it difficult to pay you the compliment; and it is a title, forgive me, that I cannot wish you to have. To some this speech would seem coarse, but I feel that you understand it. This marriage, Madam, is altogether repugnant to me. You are not ignorant, now that you know who I am, how opposed it is to all my own interests, and with my father's permission I hope you will allow me to say that, if things depended on me, it would never take place."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. (<em>aside</em>). What a very impertinent speech to make; and what a confession to make to her!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mar. And as my answer, I must tell you that things are much the same with me, and that, if you have any repugnance in seeing me your stepmother, I shall have no less in seeing you my stepson. Do not believe, I beg of you, that it is of my own will that this trouble has come upon you. I should be deeply grieved to cause you the least sorrow, and unless I am forced to it by a power I must obey, I give you my word that, I will never consent to a marriage which is so painful to you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. She is right. A foolish speech deserves a foolish answer. I beg your pardon, my love, for the impertinence of my son. He is a silly young fellow, who has not yet learnt the value of his own words."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mar. I assure you that he has not at all offended me. I am thankful, on the contrary, that he has spoken so openly. I care greatly for such a confession from him, and if he had spoken differently, I should feel much less esteem for him."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. It is very kind of you to excuse him thus. Time will make him wiser, and you will see that his feelings will change."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. No, father, they will never change; and I earnestly beg of you, Madam, to believe me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Did ever anybody see such folly? He is becoming worse and worse."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Would you have me false to my inmost feelings?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Again! Change your manners, if you please."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Very well, since you wish me to speak differently. Allow me, Madam, to take for a moment my father's place; and forgive me if I tell you that I never saw in the world anybody more charming than you are; that I can understand no happiness to equal that of pleasing you, and that to be your husband is a glory, a felicity, I should prefer to the destinies of the greatest princes upon earth. Yes, Madam, to possess you is, in my mind, to possess the best of all treasures; to obtain you is all my ambition. There is nothing I would not do for so precious a conquest, and the most powerful obstacles …"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Gently, gently, my son, if you please."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. These are complimentary words which I speak to her in your name."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Bless me! I have a tongue of my own to explain my feelings, and I really don't care for such an advocate as you … Here, bring us some chairs."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fro. No; I think it is better for us to go at once to the fair, in order to be back earlier, and have plenty of time for talking."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. (<em>to</em> Brindavoine). Have the carriage ready at once."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Xii."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——HARPAGON, MARIANNE, ÉLISE, CLÉANTE, VALÈRE, FROSINE.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. (<em>to</em> Marianne). I hope you will excuse me, my dear, but I forgot to order some refreshments for you, before you went out."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. I have thought of it, father, and have ordered to be brought in here some baskets of China oranges, sweet citrons, and preserves, which I sent for in your name."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. (<em>aside, to</em> Valère). Valère!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. (<em>aside, to</em> Harpagon). He has lost his senses!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. You are afraid, father, that it will not be enough? I hope, Madam, that you will have the kindness to excuse it."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mar. It was by no means necessary."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Did you ever see, Madam, a more brilliant diamond than the one my father has upon his finger?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mar. It certainly sparkles very much."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. (<em>taking the diamond off his father's finger</em>). You must see it near."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mar. It is a beautiful one; it possesses great lustre."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. (<em>steps before</em> Marianne, <em>who wants to restore it</em>). No, Madam, it is in hands too beautiful; it is a present my father gives you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. I?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Is it not true, father, that you wish her to keep it for your sake?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. (<em>aside, to his son</em>). What?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. (<em>to</em> Marianne). A strange question indeed! He is making me signs that I am to force you to accept it."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mar. I would not …"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. (<em>to</em> Marianne). I beg of you…. He would not take it back."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. (<em>aside</em>). I am bursting with rage!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mar. It would be …"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. (<em>still hindering</em> Marianne <em>from returning it</em>). No; I tell you, you will offend him."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mar. Pray …"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. By no means."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. (<em>aside</em>). Plague take …"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. He is perfectly shocked at your refusal."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. (<em>aside, to his son</em>). Ah! traitor!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. (<em>to</em> Marianne). You see he is in despair."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. (<em>aside, to his son, threatening him</em>). You villain!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Really, father, it is not my fault. I do all I can to persuade her to accept it; but she is obstinate."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. (<em>in a rage, aside to his son</em>). Rascal!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. You are the cause, Madam, of my father scolding me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. (<em>aside, with the same looks</em>). Scoundrel!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. (<em>to</em> Marianne). You will make him ill; for goodness' sake, hesitate no longer."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fro. (<em>to</em> Marianne). Why so much ceremony? Keep the ring, since the gentleman wishes you to."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mar. (<em>to</em> Harpagon). I will keep it now, Sir, in order not to make you angry, and I shall take another opportunity of returning it to you."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Xiii."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——HARPAGON, MARIANNE, ÉLISE, VALÈRE, FROSINE, BRINDAVOINE.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Brind. Sir, there is a gentleman here who wants to speak to you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Tell him that I am engaged, and that I cannot see him to-day."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Brind. He says he has some money for you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. (<em>to</em> Marianne). Pray, excuse me; I will come back directly."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Xiv."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——HARPAGON, MARIANNE, ÉLISE, CLÉANTE, FROSINE, LA MERLUCHE.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Mer. (<em>comes in running, and throws</em> Harpagon <em>down</em>). Sir …"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Oh! he has killed me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. What's the matter, father? Have you hurt yourself?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. The wretch must have been bribed by some of my debtors to break my neck."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. (<em>to</em> Harpagon). There is nothing serious."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Mer. (<em>to</em> Harpagon). I beg your pardon, Sir; I thought I had better run fast to tell you…."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. What?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Mer. That your two horses have lost their shoes."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Take them quickly to the smith."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. In the meantime, father, I will do the honours of the house for you, and take this lady into the garden, where lunch will be brought."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Xv."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——HARPAGON, VALÈRE.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Valère, look after all this; and take care, I beseech you, to save as much of it as you can, so that we may send it back to the tradesman again."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. I will."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. (<em>alone</em>). Miscreant! do you mean to ruin me?"
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h4",
+    "innerHtml": "Act Iv."
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene I."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——CLÉANTE, MARIANNE, ÉLISE, FROSINE.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Let us come in here; we shall be much better. There is no one about us that we need be afraid of, and we can speak openly."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Eli. Yes, Madam, my brother has told me of the love he has for you. I know what sorrow and anxiety such trials as these may cause, and I assure you that I have the greatest sympathy for you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mar. I feel it a great comfort in my trouble to have the sympathy of a person like you, and I entreat you, Madam, ever to retain for me a friendship so capable of softening the cruelty of my fate."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fro. You really are both very unfortunate not to have told me of all this before. I might certainly have warded off the blow, and not have carried things so far."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. What could I do? It is my evil destiny which has willed it so. But you, fair Marianne, what have you resolved to do? What resolution have you taken?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mar. Alas! Is it in my power to take any resolution? And, dependent as I am, can I do anything else except form wishes?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. No other support for me in your heart? Nothing but mere wishes? No pitying energy? No kindly relief? No active affection?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mar. What am I to say to you? Put yourself in my place, and judge what I can possibly do. Advise me, dispose of me, I trust myself entirely to you, for I am sure that you will never ask of me anything but what is modest and seemly."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Alas! to what do you reduce me when you wish me to be guided entirely by feelings of strict duty and of scrupulous propriety."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mar. But what would you have me do? Even if I were, for you, to divest myself of the many scruples which our sex imposes on us, I have too much regard for my mother, who has brought me up with great tenderness, for me to give her any cause of sorrow. Do all you can with her. Strive to win her. I give you leave to say and do all you wish; and if anything depends upon her knowing the true state of my feelings, by all means tell her what they are; indeed I will do it myself if necessary."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Frosine, dear Frosine, will you not help us?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fro. Indeed, I should like to do so, as you know. I am not naturally unkind. Heaven has not given me a heart of flint, and I feel but too ready to help when I see young people loving each other in all earnestness and honesty. What can we do in this case?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Try and think a little."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mar. Advise us."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Eli. Invent something to undo what you have done."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fro. Rather a difficult piece of business. (<em>To</em> Marianne) As far as your mother is concerned, she is not altogether unreasonable and we might succeed in making her give to the son the gift she reserved for the father. (<em>To</em> Cléante) But the most disheartening part of it all is that your father is your father."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Yes, so it is."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fro. I mean that he will bear malice if he sees that he is refused, and he will be in no way disposed afterwards to give his consent to your marriage. It would be well if the refusal could be made to come from him, and you ought to try by some means or other to make him dislike you, Marianne."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. You are quite right."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fro. Yes, right enough, no doubt. That is what ought to be done; but how in the world are we to set about it? Wait a moment. Suppose we had a somewhat elderly woman with a little of the ability which I possess, and able sufficiently well to represent a lady of rank, by means of a retinue made up in haste, and of some whimsical title of a marchioness or viscountess, whom we would suppose to come from Lower Brittany. I should have enough power over your father to persuade him that she is a rich woman, in possession, besides her houses, of a hundred thousand crowns in ready money; that she is deeply in love with him, and that she would marry him at any cost, were she even to give him all her money by the marriage contract. I have no doubt he would listen to the proposal. For certainly he loves you very much, my dear, but he loves money still better. When once he has consented to your marriage, it does not signify much how he finds out the true state of affairs about our marchioness."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. All that is very well made up."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fro. Leave it to me; I just remember one of my friends who will do beautifully."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Depend on my gratitude, Frosine, if you succeed. But, dear Marianne, let us begin, I beg of you, by gaining over your mother; it would be a great deal accomplished if this marriage were once broken off. Make use, I beseech you, of all the power that her tenderness for you gives you over her. Display without hesitation those eloquent graces, those all-powerful charms, with which Heaven has endowed your eyes and lips; forget not, I beseech you, those sweet persuasions, those tender entreaties, those loving caresses to which, I feel, nothing could be refused."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mar. I will do all I can, and will forget nothing."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Ii."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——HARPAGON, MARIANNE, ÉLISE, FROSINE.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. (<em>aside, and without being seen</em>). Ah! ah! my son is kissing the hand of his intended stepmother, and his intended stepmother does not seem much averse to it! Can there be any mystery in all this?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Eli. Here comes my father."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. The carriage is quite ready, and you can start when you like."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Since you are not going, father, allow me to take care of them."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. No, stop here; they can easily take care of themselves, and I want you."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Iii."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——HARPAGON, CLÉANTE.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Well, now, all consideration of stepmother aside, tell me what do you think of this lady?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. What I think of her?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Yes, what do you think of her appearance, her figure, her beauty and intelligence?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. So, so."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. But still?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. To tell you the truth, I did not find her such as I expected. Her manner is that of a thorough coquette, her figure is rather awkward, her beauty very middling, and her intelligence of the meanest order. Do not suppose that I say this to make you dislike her; for if I must have a stepmother, I like the idea of this one as well as of any other."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. You spoke to her just now, nevertheless…."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. I paid her several compliments in your name, but it was to please you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. So then you don't care for her?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Who? I? Not in the least."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. I am sorry for it, for that puts an end to a scheme which had occurred to me. Since I have seen her here, I have been thinking of my own age; and I feel that people would find fault with me for marrying so young a girl. This consideration had made me determine to abandon the project, and as I had demanded her in marriage, and had given her my promise, I would have given her to you if it were not for the dislike you have for her."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. To me?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. To you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. In marriage?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. In marriage."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. It is true she is not at all to my taste; but, to please you, father, I will bring myself to marry her, if you please."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. If I please! I am more reasonable than you think. I don't wish to compel you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Excuse me! I will make an attempt to love her."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. No, no; a marriage cannot be happy where there is no love."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. That, my father, will, perhaps, come by and by, and it is said that love is often the fruit of marriage."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. No, it is not right to risk it on the side of the man, and there are some troublesome things I don't care to run the chance of. If you had felt any inclination for her, you should have married her instead of me, but as it is, I will return to my first intention and marry her myself."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Well, father, since things are so, I had better be frank with you, and reveal our secret to you. The truth is that I have loved her ever since I saw her one day on the promenade. I intended to ask you today to let me marry her, and I was only deterred from it because you spoke of marrying her, and because I feared to displease you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Have you ever paid her any visits?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Yes, father."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Many?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Yes; considering how long we have been acquainted."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. You were well received."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Very well, but without her knowing who I was; and that is why Marianne was so surprised when she saw me today."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Have you told her of your love, and of your intention of marrying her?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Certainly, and I also spoke a little to the mother on the subject."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Did she kindly receive your proposal for her daughter?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Yes, very kindly."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. And does the daughter return your love?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. If I can believe appearances, she is certainly well disposed towards me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. (<em>aside</em>). Well! I am very glad to have found out this secret; it is the very thing I wanted to know. (<em>To his son</em>) Now, look here, my son, I tell you what. You will have, if you please, to get rid of your love for Marianne, to cease to pay your attentions to a person I intend for myself, and to marry very soon the wife I have chosen for you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. So, father, it is thus you deceive me! Very well, since things are come to such a pass, I openly declare to you that I shall not give up my love for Marianne. No! understand that henceforth there is nothing from which I shall shrink in order to dispute her with you; and if you have on your side the consent of the mother, perhaps I shall have some other resources left to aid me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. What, rascal! You dare to trespass on my grounds?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. It is you who trespass on mine. I was the first."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Am I not your father, and do you not owe me respect?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. There are things in which children are not called upon to pay deference to their fathers; and love is no respector of persons."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. My stick will make you know me better."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. All your threatenings are nothing to me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. You will give up Marianne?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Never!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Bring me my stick. Quick, I say! my stick!"
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Iv."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——HARPAGON, CLÉANTE, MASTER JACQUES.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. Hold! hold! Gentlemen, what does this mean? What are you thinking of?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. I don't care a bit for it."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. (<em>to</em> Cléante). Ah! Sir, gently."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. He dares to speak to me with such impudence as that!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. (<em>to</em> Harpagon). Ah! Sir, I beg of you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. I shall keep to it."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. (<em>to</em> Cléante). What! to your father?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Let me do it."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. (<em>to</em> Harpagon). What! to your son? To me it's different."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. I will make you judge between us, Master Jacques, so that you may see that I have right on my side."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. Willingly. (<em>To</em> Cléante) Go a little farther back."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. There is a young girl I love and want to marry, and the scoundrel has the impudence to love her also, and wants to marry her in spite of me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. Oh! he is wrong."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Is it not an abominable thing to see a son who does not shrink from becoming the rival of his father? And is it not his bounden duty to refrain from interfering with my love?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. You are quite right; stop here, and let me go and speak to him."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. (<em>to</em> Master Jacques, <em>who comes near him</em>). Very well; if he wants to make you a judge between us, I have no objection. I care little who it is, and I don't mind referring our quarrel to you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. You do me great honour."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. I am in love with a young girl who returns my affection, and who receives kindly the offer of my heart; but my father takes it into his head to disturb our love by asking her in marriage."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. He certainly is wrong."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Is it not shameful for a man of his age to think of marrying? I ask you if it is right for him to fall in love? and ought he not now to leave that to younger men?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. You are quite right; he is not serious; let me speak a word or two to him. (<em>To</em> Harpagon) Really, your son is not so extravagant as you think, and is amenable to reason. He says that he is conscious of the respect he owes you, and that he only got angry in the heat of the moment. He will willingly submit to all you wish if you will only promise to treat him more kindly than you do, and will give him in marriage a person to his taste."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Ah! tell him, Master Jacques, that he will obtain everything from me on those terms, and that, except Marianne, I leave him free to choose for his wife whomsoever he pleases."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. Leave that to me. (<em>To</em> Cléante) Really, your father is not so unreasonable as you make him out to me; and he tells me that it is your violence which irritated him. He only objects to your way of doing things, and is quite ready to grant you all you want, provided you will use gentle means and will give him the deference, respect, and submission that a son owes to his father."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Ah! Master Jacques, you can assure him that if he grants me Marianne, he will always find me the most submissive of men, and that I shall never do anything contrary to his pleasure."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. (<em>to</em> Harpagon). It's all right; he consents to what you say."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Nothing could be better."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. (<em>to</em> Cléante). It's all settled; he is satisfied with your promises."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Heaven be praised!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. Gentlemen, you have nothing to do but to talk quietly over the matter together; you are agreed now, and yet you were on the point of quarrelling through want of understanding each other."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. My poor Jacques, I shall be obliged to you all my life."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. Don't mention it, Sir."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. You have given me great pleasure, Master Jacques, and deserve a reward. (Harpagon <em>feels in his pocket</em>, Jacques <em>holds out his hand, but</em> Harpagon <em>only pulls out his handkerchief, and says</em>,) Go; I will remember it, I promise you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. I thank you kindly, Sir."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene V."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——HARPAGON, CLÉANTE.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. I beg your pardon, father, for having been angry."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. It is nothing."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. I assure you that I feel very sorry about it."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. I am very happy to see you reasonable again."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. How very kind of you so soon to forget my fault."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. One easily forgets the faults of children when they return to their duty."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. What! you are not angry with me for my extravagant behaviour?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. By your submission and respectful conduct you compel me to forget my anger."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. I assure you, father, I shall for ever keep in heart the remembrance of all your kindness."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. And I promise you that, in future, you will obtain all you like from me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Oh, father! I ask nothing more; it is sufficient for me that you give me Marianne."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. What?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. I say, father, that I am only too thankful already for what you have done, and that when you give me Marianne, you give me everything."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Who talks of giving you Marianne?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. You, father."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. I?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Yes."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. What! is it not you who promised to give her up?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. I! give her up?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Yes."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Certainly not."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Did you not give up all pretensions to her?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. On the contrary, I am more determined than ever to have her."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. What, scoundrel! again?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Nothing can make me change my mind."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Let me get at you again, wretch!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. You can do as you please."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. I forbid you ever to come within my sight."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. As you like."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. I abandon you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Abandon me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. I disown you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Disown me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. I disinherit you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. As you will."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. I give you my curse."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. I want none of your gifts."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Vi."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——CLÉANTE, LA FLÈCHE.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Fl. (<em>leaving the garden with a casket</em>). Ah! Sir, you are just in the nick of time. Quick! follow me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. What is the matter?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Fl. Follow me, I say. We are saved."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. How?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Fl. Here is all you want."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. What?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Fl. I have watched for this all day."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. What is it?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Fl. Your father's treasure that I have got hold of."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. How did you manage it?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "La Fl. I will tell you all about it. Let us be off. I can hear him calling out."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Vii."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——HARPAGON, _from the garden, rushing in without his hat, and crying_—</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Thieves! thieves! assassins! murder! Justice, just heavens! I am undone; I am murdered; they have cut my throat; they have stolen my money! Who can it be? What has become of him? Where is he? Where is he hiding himself? What shall I do to find him? Where shall I run? Where shall I not run? Is he not here? Who is this? Stop! (<em>To himself, taking hold of his own arm</em>) Give me back my money, wretch…. Ah…! it is myself…. My mind is wandering, and I know not where I am, who I am, and what I am doing. Alas! my poor money! my poor money! my dearest friend, they have bereaved me of thee; and since thou art gone, I have lost my support, my consolation, and my joy. All is ended for me, and I have nothing more to do in the world! Without thee it is impossible for me to live. It is all over with me; I can bear it no longer. I am dying; I am dead; I am buried. Is there nobody who will call me from the dead, by restoring my dear money to me, or by telling me who has taken it? Ah! what is it you say? It is no one. Whoever has committed the deed must have watched carefully for his opportunity, and must have chosen the very moment when I was talking with my miscreant of a son. I must go. I will demand justice, and have the whole of my house put to the torture—my maids and my valets, my son, my daughter, and myself too. What a crowd of people are assembled here! Everyone seems to be my thief. I see no one who does not rouse suspicion in me. Ha! what are they speaking of there? Of him who stole my money? What noise is that up yonder? Is it my thief who is there? For pity's sake, if you know anything of my thief, I beseech you to tell me. Is he hiding there among you? They all look at me and laugh. We shall see that they all have a share in the robbery. Quick! magistrates, police, provosts, judges, racks, gibbets, and executioners. I will hang everybody, and if I do not find my money, I will hang myself afterwards."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h4",
+    "innerHtml": "Act V."
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene I."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——HARPAGON, A POLICE OFFICER.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Off. Leave that to me. I know my business. Thank Heaven! this is not the first time I have been employed in finding out thieves; and I wish I had as many bags of a thousand francs as I have had people hanged."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Every magistrate must take this affair in hand; and if my money is not found, I shall call justice against justice itself."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Off. We must take all needful steps. You say there was in that casket…?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Ten thousand crowns in cash."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Off. Ten thousand crowns!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Ten thousand crowns."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Off. A considerable theft."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. There is no punishment great enough for the enormity of the crime; and if it remain unpunished, the most sacred things are no longer secure."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Off. In what coins was that sum?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. In good louis d'or and pistoles of full weight."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Off. Whom do you suspect of this robbery?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Everybody. I wish you to take into custody the whole town and suburbs."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Off. You must not, if you trust me, frighten anybody, but must use gentle means to collect evidence, in order afterwards to proceed with more rigour for the recovery of the sum which has been taken from you."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Ii."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——HARPAGON, THE POLICE OFFICER, MASTER JACQUES.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. (<em>at the end of the stage, turning back to the door by which he came in</em>). I am coming back. Have his throat cut at once; have his feet singed; put him in boiling water, and hang him up to the ceiling."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. What! Him who has robbed me?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. I was speaking of a sucking pig that your steward has just sent me; and I want to have it dressed for you after my own fancy."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. This is no longer the question; and you have to speak of something else to this gentleman."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Off. (<em>to</em> Jacques). Don't get frightened. I am not a man to cause any scandal, and matters will be carried on by gentle means."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. (<em>to</em> Harpagon). Is this gentleman coming to supper with you?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Off. You must, in this case, my good man, hide nothing from your master."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. Indeed, Sir, I will show you all I know, and will treat you in the best manner I possibly can."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Off. That's not the question."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. If I do not give as good fare as I should like, it is the fault of your steward, who has clipped my wings with the scissors of his economy."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. R ascal! We have other matters to talk about than your supper; and I want you to tell me what has become of the money which has been stolen from me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. Some money has been stolen from you?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Yes, you rascal! And I'll have you hanged if you don't give it me back again."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Off. (<em>to</em> Harpagon). Pray, don't be hard upon him. I see by his looks that he is an honest fellow, and that he will tell you all you want to know without going to prison. Yes, my friend, if you confess, no harm shall come to you, and you shall be well rewarded by your master. Some money has been stolen from him, and it is not possible that you know nothing about it."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. (<em>aside</em>). The very thing I wanted in order to be revenged of our steward. Ever since he came here, he has been the favourite, and his advice is the only one listened to. Moreover, I have forgotten neither the cudgelling of to-day nor …"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. What are you muttering about there?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Off. (<em>to</em> Harpagon). Leave him alone. He is preparing himself to satisfy you; I told you that he was an honest fellow."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. Sir, since you want me to tell you what I know, I believe it is your steward who has done this."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Valère?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. Yes."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. He who seemed so faithful to me!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. Himself. I believe that it is he who has robbed you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. And what makes you believe it?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. What makes me believe it?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Yes."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. I believe it … because I believe it."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Off. But you must tell us the proofs you have."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Did you see him hanging about the place where I had put my money?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. Yes, indeed. Where was your money?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. In the garden."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. Exactly; I saw him loitering about in the garden; and in what was your money?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. In a casket."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. The very thing. I saw him with a casket."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. And this casket, what was it like? I shall soon see if it is mine."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. What it was like?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Yes."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. It was like … like a casket."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Off. Of course. But describe it a little, to see if it is the same."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. It was a large casket."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. The one taken from me is a small one."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. Yes, small if you look at it in that way; but I call it large because of what it contains."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. And what colour was it?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. What colour?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Off. Yes."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. Of a colour … of a certain colour…. Can't you help me to find the word?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Ugh!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. Red; isn't it?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. No, grey."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. Ha! yes, reddish-grey! That's what I meant."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. There is no doubt about it, it's my casket for certain. Write down his evidence, Sir! Heavens! whom can we trust after that? We must never swear to anything, and I believe now that I might rob my own self."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. (<em>to</em> Harpagon). There he is coming back, Sir; I beg of you not to go and tell him that it was I who let it all out, Sir."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Iii."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——HARPAGON, THE POLICE OFFICER, VALÈRE, MASTER JACQUES.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Come, come near, and confess the most abominable action, the most horrible crime, that was ever committed."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. What do you want, Sir?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. What, wretch! you do not blush for shame after such a crime?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. Of what crime do you speak?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Of what crime I speak? Base villain, as if you did not know what I mean! It is in vain for you to try to hide it; the thing is discovered, and I have just heard all the particulars. How could you thus abuse my kindness, introduce yourself on purpose into my house to betray me, and to play upon me such an abominable trick?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. Sir, since everything is known to you, I will neither deny what I have done nor will I try to palliate it."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. (<em>aside</em>). Oh! oh! Have I guessed the truth?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. I intended to speak to you about it, and I was watching for a favourable opportunity; but, as this is no longer possible, I beg of you not to be angry, and to hear my motives."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. And what fine motives can you possibly give me, infamous thief?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. Ah! Sir, I do not deserve these names. I am guilty towards you, it is true; but, after all, my fault is pardonable."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. How pardonable? A premeditated trick, and such an assassination as this!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. I beseech you not to be so angry with me. When you have heard all I have to say, you will see that the harm is not so great as you make it out to be."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. The harm not so great as I make it out to be! What! my heart's blood, scoundrel!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. Your blood, Sir, has not fallen into bad hands. My rank is high enough not to disgrace it, and there is nothing in all this for which reparation cannot be made."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. It is, indeed, my intention that you should restore what you have taken from me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. Your honour, Sir, shall be fully satisfied."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Honour is not the question in all this. But tell me what made you commit such a deed?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. Alas! do you ask it?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Yes, I should rather think that I do."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. A god, Sir, who carries with him his excuses for all he makes people do: Love."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Love?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. Yes."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Fine love that! fine love, indeed! the love of my gold!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. No, Sir, it is not your wealth that has tempted me, it is not that which has dazzled me; and I swear never to pretend to any of your possessions, provided you leave me what I have."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. In the name of all the devils, no, I shall not leave it to you. But did anyone ever meet with such villainy! He wishes to keep what he has robbed me of!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. Do you call that a robbery?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. If I call that a robbery? A treasure like that!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. I readily acknowledge that it is a treasure, and the most precious one you have. But it will not be losing it to leave it to me. I ask you on my knees to leave in my possession this treasure so full of charms; and if you do right, you will grant it to me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. I will do nothing of the kind. What in the world are you driving at?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. We have pledged our faith to each other, and have taken an oath never to forsake one another."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. The oath is admirable, and the promise strange enough!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. Yes, we are engaged to each other for ever."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. I know pretty well how to disengage you, I assure you of that."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. Nothing but death can separate us."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. You must be devilishly bewitched by my money."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. I have told you already, Sir, that it is not self-interest which has prompted me to what I have done. It was not that which prompted my heart; a nobler motive inspired me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. We shall hear presently that it is out of Christian charity that he covets my money! But I will put a stop to all this, and justice, impudent rascal, will soon give me satisfaction."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. You will do as you please, and I am ready to suffer all the violence you care to inflict upon me, but I beg of you to believe, at least, that if there is any harm done, I am the only one guilty, and that your daughter has done nothing wrong in all this."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. I should think not! It would be strange, indeed, if my daughter had a share in this crime. But I will have that treasure back again, and you must confess to what place you have carried it off."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. I have not carried it off, and it is still in your house."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. (<em>aside</em>). O my beloved casket! (<em>To</em> Valère) My treasure has not left my house?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. No, Sir."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Well, then, tell me, have you taken any liberties with…?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. Ah! Sir, you wrong us both; the flame with which I burn is too pure, too full of respect."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. (<em>aside</em>). He burns for my casket!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. I had rather die than show the least offensive thought: I found too much modesty and too much purity for that."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. (<em>aside</em>). My cash-box modest!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. All my desires were limited to the pleasures of sight, and nothing criminal has profaned the passion those fair eyes have inspired me with."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. (<em>aside</em>). The fair eyes of my cash-box! He speaks of it as a lover does of his mistress."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. Dame Claude knows the whole truth, and she can bear witness to it."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Hallo! my servant is an accomplice in this affair?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. Yes, Sir, she was a witness to our engagement; and it was after being sure of the innocence of my love that she helped me to persuade your daughter to engage herself to me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Ah! (<em>Aside</em>) Has the fear of justice made him lose his senses? (<em>To</em> Valère) What rubbish are you talking about my daughter?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. I say, Sir, that I found it most difficult to make her modesty consent to what my love asked of her."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. The modesty of whom?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. Of your daughter; and it was only yesterday that she could make up her mind to sign our mutual promise of marriage."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. My daughter has signed a promise of marriage?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. Yes, Sir, and I have also signed."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. O heavens! another misfortune!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. (<em>to the</em> Officer). Write, Sir, write."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Aggravation of misery! Excess of despair! (<em>To the</em> Officer) Sir, discharge your duty, and draw me up an indictment against him as a thief and a suborner."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. As a thief and a suborner."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. These are names which I do not deserve, and when you know who I am …"
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Iv."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——HARPAGON, ÉLISE, MARIANNE, VALÈRE, FROSINE, MASTER JACQUES, THE POLICE OFFICER.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Ah! guilty daughter! unworthy of a father like me! is it thus that you put into practice the lessons I have given you? You give your love to an infamous thief, and engage yourself to him without my consent! But you shall both be disappointed. (<em>To</em> Élise) Four strong walls will answer for your conduct in the future; (<em>to</em> Valère) and good gallows, impudent thief, shall do me justice for your audacity."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. Your anger will be no judge in this affair, and I shall at least have a hearing before I am condemned."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. I was wrong to say gallows; you shall be broken alive on the wheel."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Eli. (<em>kneeling to her father</em>). Ah! my father, be more merciful, I beseech you, and do not let your paternal authority drive matters to extremes. Do not suffer yourself to be carried away by the first outburst of your anger, but give yourself time to consider what you do. Take the trouble of inquiring about him whose conduct has offended you. He is not what you imagine, and you will think it less strange that I should have given myself to him, when you know that without him you would long ago have lost me for ever. Yes, father, it is he who saved me from the great danger I ran in the waters, and to whom you owe the life of that very daughter who …"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. All this is nothing; and it would have been much better for me if he had suffered you to be drowned rather than do what he has done."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Eli. My father, I beseech you, in the name of paternal love, grant me …"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. No, no. I will hear nothing, and justice must have its course."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. (<em>aside</em>). You shall pay me for the blows you gave me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fro. What a perplexing state of affairs!"
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene V."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——ANSELME, HARPAGON, ÉLISE, MARIANNE, FROSINE, VALÈRE, THE POLICE OFFICER, MASTER JACQUES.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ans. What can have happened, Mr. Harpagon? You are quite upset."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Ah, Mr. Anselme, you see in me the most unfortunate of men; and you can never imagine what vexation and disorder is connected with the contract you have come to sign! I am attacked in my property; I am attacked in my honour; and you see there a scoundrel and a wretch who has violated the most sacred rights, who has introduced himself into my house as a servant in order to steal my money, and seduce my daughter."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. Who ever thought of your money about which you rave?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Yes; they have given each other a promise of marriage. This insult concerns you, Mr. Anselme; and it is you who ought to be plaintiff against him, and who at your own expense ought to prosecute him to the utmost, in order to be revenged."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ans. It is not my intention to force anybody to marry me, and to lay claim to a heart which has already bestowed itself; but as far as your interests are concerned, I am ready to espouse them as if they were my own."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. This is the gentleman, an honest commissary, who has promised that he will omit nothing of what concerns the duties of his office. (<em>To the</em> Officer, <em>showing</em> Valère) Charge him, Sir, as he ought to be, and make matters very criminal."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. I do not see what crime they can make of my passion for your daughter, nor the punishment you think I ought to be condemned to for our engagement; when it is known who I am …"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. I don't care a pin for all those stories, and the world is full, nowadays, of those pretenders to nobility, of those impostors, who take advantage of their obscurity and deck themselves out insolently with the first illustrious name that comes into their head."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. Know that I am too upright to adorn myself with a name which is not mine, and that all Naples can bear testimony to my birth!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ans. Softly! Take care of what you are about to say. You speak before a man to whom all Naples is known, and who can soon see if your story is true."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. (<em>proudly putting on his hat</em>). I am not the man to fear anything; and if all Naples is known to you, you know who was Don Thomas d'Alburci."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ans. Certainly; I know who he is, and few people know him better than I do."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. I care neither for Don Thomas nor Don Martin. (<em>Seeing two candles burning, he blows one out</em>.)"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ans. Have patience and let him speak; we shall soon know what he has to say of him."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. That it is to him that I owe my birth."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ans. To him?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. Yes."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ans. Nonsense; you are laughing. Try and make out a more likely story, and don't pretend to shelter yourself under such a piece of imposture."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. Consider your words better before you speak; it is no imposture, and I say nothing here that I cannot prove."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ans. What! You dare to call yourself the son of Don Thomas d'Alburci?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. Yes, I dare to do so; and I am ready to maintain the truth against anyone, who ever he may be."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ans. This audacity is marvellous. Learn to your confusion that it is now at least sixteen years ago since the man of whom you speak died in a shipwreck at sea with his wife and children, when he was trying to save their lives from the cruel persecutions which accompanied the troubles at Naples, and which caused the banishment of several noble families."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. Yes; but learn to your confusion that his son, seven years of age, was, with a servant, saved from the wreck by a Spanish vessel, and that this son is he who now speaks to you. Learn that the captain of that ship, touched with compassion at my misfortune, loved me; that he had me brought up as his own son, and that the profession of arms has been my occupation ever since I was fit for it; that lately I heard that my father is not dead, as I thought he was; that, passing this way to go and find him out, an accident, arranged by heaven, brought to my sight the charming Élise; that the sight of her made me a slave to her beauty, and that the violence of my love and the harshness of her father made me take the resolution to come into his house disguised as a servant, and to send some one else to look after my parents."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ans. But what other proofs have you besides your own words that all this is not a fable based by you upon truth."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. What proofs? The captain of the Spanish vessel; a ruby seal which belonged to my father; an agate bracelet which my mother put upon my arm; and old Pedro, that servant who was saved with me from the wreck."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mar. Alas! I can answer here for what you have said; that you do not deceive us; and all you say clearly tells me that you are my brother."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. You my sister!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mar. Yes, my heart was touched as soon as you began to speak; and our mother, who will be delighted at seeing you, often told me of the misfortunes of our family. Heaven spared us also in that dreadful wreck; but our life was spared at the cost of our liberty, for my mother and myself were taken up by pirates from the wreck of our vessel. After ten years of slavery a lucky event gave us back to liberty, and we returned to Naples, where we found all our property sold, and could hear no news of our father. We embarked for Genoa, where my mother went to gather what remained of a family estate which had been much disputed. Leaving her unjust relatives, she came here, where she has lived but a weary life."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ans. O heaven! how wonderful are thy doings, and how true it is that it only belongs to thee to work miracles! Come to my arms, my children, and share the joy of your happy father!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. You are our father?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mar. It was for you that my mother wept?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ans. Yes, my daughter; yes, my son; I am Don Thomas d'Alburci, whom heaven saved from the waves, with all the money he had with him, and who, after sixteen years, believing you all dead, was preparing, after long journeys, to seek the consolations of a new family in marrying a gentle and virtuous woman. The little security there was for my life in Naples has made me abandon the idea of returning there, and having found the means of selling what I had, I settled here under the name of Anselme. I wished to forget the sorrows of a name associated with so many and great troubles."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. (<em>to</em> Anselme). He is your son?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ans. Yes."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. That being so, I make you responsible for the ten thousand crowns that he has stolen from me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ans. He steal anything from you!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Yes."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. Who said so?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Master Jacques."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. (<em>to</em> Master Jacques). You say that?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. You see that I am not saying anything."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. He certainly did. There is the officer who has received his deposition."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Val. Can you really believe me capable of such a base action?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Capable or not capable, I must find my money."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Vi."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——HARPAGON, ANSELME, ÉLISE, MARIANNE, CLÉANTE, VALÈRE, FROSINE, THE POLICE OFFICER, MASTER JACQUES, LA FLÈCHE.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Do not grieve for your money, father, and accuse any one. I have news of it, and I come here to tell you that if you consent to let me marry Marianne, your money will be given back to you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Where is it?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Do not trouble yourself about that. It is in a safe place, and I answer for it; everything depends on your resolve. It is for you to decide, and you have the choice either of losing Marianne or your cash-box."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Has nothing been taken out?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Nothing at all. Is it your intention to agree to this marriage, and to join your consent to that of her mother, who leaves her at liberty to do as she likes?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mar. (<em>to</em> Cléante). But you do not know that this consent is no longer sufficient, and that heaven has given me back a brother (<em>showing</em> Valère), at the same time that it has given me back a father (<em>showing</em> Anselme); and you have now to obtain me from him."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ans. Heaven, my dear children, has not restored you to me that I might oppose your wishes. Mr. Harpagon, you must be aware that the choice of a young girl is more likely to fall upon the son than upon the father. Come, now, do not force people to say to you what is unnecessary, and consent, as I do, to this double marriage."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. In order for me to be well advised, I must see my casket."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. You shall see it safe and sound."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. I have no money to give my children in marriage."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ans. Never mind, I have some; do not let this trouble you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Do you take upon yourself to defray the expenses of these two weddings?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ans. Yes, I will take this responsibility upon myself. Are you satisfied?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. Yes, provided you order me a new suit of clothes for the wedding."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ans. Agreed! Let us go and enjoy the blessings this happy day brings us."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Off. Stop, Sirs, stop; softly, if you please. Who is to pay me for my writing?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. We have nothing to do with your writing."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Off. Indeed! and yet I do not pretend to have done it for nothing."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. (<em>showing</em> Master Jacques). There is a fellow you can hang in payment!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jac. Alas! what is one to do? I receive a good cudgelling for telling the truth, and now they would hang me for lying."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ans. Mr. Harpagon, you must forgive him this piece of imposture."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. You will pay the officer then?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ans. Let it be so. Let us go quickly, my children, to share our joy with your mother!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Har. And I to see my dear casket"
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Footnotes"
+  },
+  {
+    "tag": "ol",
+    "innerHtml": {
+      "list": [
+        "An old comic pastoral.",
+        "The real hero in Rabelais' 'Pantagruel.'",
+        "Frosine professes a knowledge of palmistry.",
+        "Old enemies. The Turks took Candia from the Venetians in 1669, after a war of twenty years.",
+        "Molière makes use even of his own infirmities. Compare act i. scene iii. This cough killed him at last.",
+        "A good deal of the mystification is lost in the translation through the necessity of occasionally putting it for casket, and she for Élise."
+      ]
+    }
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "The End"
+  }
+]
